@@ -2,7 +2,7 @@
 
 In this tutorial, we will demonstrate how to retrieve data for an NFT collection from Ethereum, Binance Smart Chain (BSC), or any blockchain compatible with the Ethereum Virtual Machine (EVM).
 
-- [NFT API](#nft-api)
+
   - [NFT Ownership API](#nft-ownership-api)
     - [Owners of an NFT 5](#owners-of-an-nft5)
     - [Top Holders of an NFT 3](#top-holders-of-an-nft3)
