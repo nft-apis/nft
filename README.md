@@ -4,8 +4,8 @@ In this tutorial, we will demonstrate how to retrieve data for an NFT collection
 
 ## Table of Contents
   - [NFT Ownership API](#nft-ownership-api)
-    - [Owners of an NFT 5](#owners-of-an-nft5)
-    - [Top Holders of an NFT 3](#top-holders-of-an-nft3)
+    - [Owners of an NFT](#owners-of-an-nft)
+    - [Top Holders of an NFT](#top-holders-of-an-nft)
   - [NFT Transfer API](#nft-transfer-api)
     - [Daily NFT Transfers](#daily-nft-transfers)
     - [Latest Transfers of an NFT](#latest-transfers-of-an-nft)
@@ -32,7 +32,7 @@ In this tutorial, we will demonstrate how to retrieve data for an NFT collection
 
 ## NFT Ownership API
 
-### [Owners of an NFT 5](https://ide.bitquery.io/Who-owns-specific-NFT)
+### [Owners of an NFT](https://ide.bitquery.io/Who-owns-specific-NFT)
 
 To get ownership of an NFT token, we need to provide its token address and ID of the specific NFT. It will provide all the owners if we don’t provide `limit` and `orderBy`. By providing this field, we are getting the latest owner of the NFT.
 
@@ -55,7 +55,7 @@ query MyQuery {
 }
 ```
 
-### [Top Holders of an NFT 3](https://ide.bitquery.io/top-token-holders-of-Moonwalker-NFT)
+### [Top Holders of an NFT](https://ide.bitquery.io/top-token-holders-of-Moonwalker-NFT)
 
 To get the top holders of an NFT we provide the NFT address in the Currency `SmartContract` field. We limit the list to 10 owners ordered by the `balance`.
 
