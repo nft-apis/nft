@@ -1,6 +1,13 @@
 # NFT API
 
-In this tutorial, we will demonstrate how to retrieve data for an NFT collection from Ethereum, Binance Smart Chain (BSC), or any blockchain compatible with the Ethereum Virtual Machine (EVM).
+In this tutorial, we will demonstrate how to retrieve data for an NFT collection from [Ethereum]([url](https://ethereum.org/)), Binance Smart Chain (BSC), or any blockchain compatible with the Ethereum Virtual Machine (EVM).
+
+- [ ] Getting started
+- [ ] emoji
+- [ ] conclusion - with bitquery nft apis and other products
+- [ ] Link to our docs
+- [ ] Support and other forum
+- [ ] CTA - Ask on telegram
 
 ## Table of Contents
   - [NFT Ownership API](#nft-ownership-api)
