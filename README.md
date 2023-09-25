@@ -2,7 +2,12 @@
 
 In this tutorial, we will demonstrate how to retrieve data for an NFT collection from Ethereum, Binance Smart Chain (BSC), or any blockchain compatible with the Ethereum Virtual Machine (EVM).
 
+[![Telegram Badge](https://badgen.net/static/Join/Bloxy_info?icon=telegram)](https://t.me/Bloxy_info) [![Diiscord Bage](https://badgen.net/discord/members/qHMBkJ8gDk)](https://discord.gg/qHMBkJ8gDk)
+
+> This tutorial was originally published on Bitquery Community. Please check out original post: [NFT API - Complete Guide ](https://community.bitquery.io/t/nft-api-complete-guide/1509)
+
 ## Table of Contents
+  - [Getting Started](#getting-started)  
   - [NFT Ownership API](#nft-ownership-api)
     - [Owners of an NFT](#owners-of-an-nft)
     - [Top Holders of an NFT](#top-holders-of-an-nft)
@@ -29,6 +34,18 @@ In this tutorial, we will demonstrate how to retrieve data for an NFT collection
     - [Get All NFTs in a collection](#get-all-nfts-in-a-collection)
     - [**Get Latest NFT Listing**](#get-latest-nft-listing)
     - [Get All Token Holders of a Collection](#get-all-token-holders-of-a-collection)
+   
+  - [About Bitquery](#about-bitquery)
+
+
+## Getting Started
+
+To get started for free, please create an account with your email: [GraphQL IDE ](https://ide.bitquery.io/).Once you create the account, check out our docs to learn [how to create your first query](https://docs.bitquery.io/docs/ide/query/).
+
+To learn more about how to use the Bitquery API, please see the following resources:
+- Historical / Near-Realtime Chain Data: [Blockchain API Documentation (V1 Graphql Docs) | Blockchain Graphql API (V1  API Docs)](https://docs.bitquery.io/v1/) 
+- Realtime Data , Websocket and Cloud Product: [Blockchain Streaming API (V2 Graphql Docs) | Streaming API (V2  API Docs)](https://docs.bitquery.io/) 
+
 
 ## NFT Ownership API
 
@@ -739,3 +756,17 @@ To get the token holders of a collection, we use the `BalanceUpdates` method t
   }
 }
 ```
+
+## About Bitquery
+
+[**Bitquery**](https://bitquery.io/?source=blog&utm_medium=about_coinpath) is your comprehensive toolkit designed with developers in mind, simplifying blockchain data access. Our products offer practical advantages and flexibility.
+
+-   **APIs** - [Explore API](https://ide.bitquery.io/streaming): Easily retrieve precise real-time and historical data for over 40 blockchains using GraphQL. Seamlessly integrate blockchain data into your applications, making data-driven decisions effortless.
+
+-   **Coinpath®** - [Try Coinpath](https://bitquery.io/products/coinpath?utm_source=blog&utm_medium=about): Streamline compliance and crypto investigations by tracing money movements across 40+ blockchains. Gain insights for efficient decision-making.
+
+-   **Data in Cloud** - [Try Demo Bucket](https://bitquery.io/products/data-in-cloud?utm_source=blog&utm_medium=about): Access indexed blockchain data cost-effectively and at scale for your data pipeline. We currently support Ethereum, BSC, Solana, with more blockchains on the horizon, simplifying your data access.
+
+-   **Explorer** - [Try Explorer](http://explorer.bitquery.io): Discover an intuitive platform for exploring data from 40+ blockchains. Visualize data, generate queries, and integrate effortlessly into your applications.
+
+Bitquery empowers developers with straightforward blockchain data tools. If you have questions or need assistance, connect with us on our [Telegram channel](https://t.me/Bloxy_info) or via email at <hello@bitquery.io>. Stay updated on the latest in cryptocurrency by subscribing to our newsletter below.
